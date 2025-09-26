@@ -13,7 +13,7 @@ I am a results-driven Software Engineer with a proven track record of achieving 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=umerkha2007&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
