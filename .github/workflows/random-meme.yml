@@ -24,7 +24,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s|<img src=\".*\" alt=\"Random Meme\" width=\"300\">|<img src=\"$MEME_URL\" alt=\"Random Meme\" width=\"300\">|" README.md
+          sed -i "s|<img src=\".*\" alt=\"Random Meme\" width=\"500\">|<img src=\"$MEME_URL\" alt=\"Random Meme\" width=\"500\">|" README.md
 
 
       - name: Commit and Push
