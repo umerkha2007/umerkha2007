@@ -24,7 +24,7 @@ I am a results-driven Software Engineer with a proven track record of achieving 
 ![](https://github-contributor-stats.vercel.app/api?username=umerkha2007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://i.redd.it/placeholder.png" alt="Random Meme" width="300">
+<img src="https://i.redd.it/6nqmvc3xk5rf1.png" alt="Random Meme" width="300">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=umerkha2007&icon=0&color=0)](https://visitcount.itsvg.in)
